@@ -2,8 +2,8 @@ package ru.netology.kochnev_danil.service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
-import ru.netology.mesler_roman.OperationHistoryApiApplicationTest;
-import ru.netology.mesler_roman.domain.Customer;
+import ru.netology.kochnev_danil.OperationHistoryApiApplicationTest;
+import ru.netology.kochnev_danil.domain.Customer;
 
 import java.util.List;
 
