@@ -1,9 +1,11 @@
+package ru.netology.kochnev_danil.service;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.test.mock.mockito.MockBean;
-import ru.netology.mesler_roman.OperationHistoryApiApplicationTest;
-import ru.netology.mesler_roman.domain.Customer;
-import ru.netology.mesler_roman.domain.operation.Operation;
+import ru.netology.kochnev_danil.OperationHistoryApiApplicationTest;
+import ru.netology.kochnev_danil.domain.Customer;
+import ru.netology.kochnev_danil.domain.operation.Operation;
 
 import java.util.Queue;
 
